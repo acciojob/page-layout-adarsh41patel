@@ -1,0 +1,4 @@
+{
+    "testRepo": "page-layout-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
